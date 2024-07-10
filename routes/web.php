@@ -7,6 +7,3 @@ Route::get('/', function () {
 
 });
 
-Route::get('/teste/teste2', function () {
-    return view('teste2');
-});
